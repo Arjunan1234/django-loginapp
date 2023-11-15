@@ -1,10 +1,22 @@
 # django-loginapp
 
 ## Signup Page
-![Screenshot (395)](https://github.com/Arjunan1234/django-loginapp/assets/63443618/ea0a5ed2-3c7d-4103-a38e-da585d25a24d)
+![signup](https://github.com/Arjunan1234/django-loginapp/assets/63443618/edcd4ca7-e230-4bcd-acc7-27497cbc6308)
 
 ## Login Page
-![Screenshot (396)](https://github.com/Arjunan1234/django-loginapp/assets/63443618/bd0348e5-5a70-4d1b-8660-4bfe945029ab)
+![loginpage](https://github.com/Arjunan1234/django-loginapp/assets/63443618/1cf6c706-fee2-447d-9f29-97eda786c6df)
 
 ## Home Page
-![Screenshot (396)](https://github.com/Arjunan1234/django-loginapp/assets/63443618/bbee47ff-c137-4290-9deb-6567918512e3)
+![Home](https://github.com/Arjunan1234/django-loginapp/assets/63443618/f018de6f-9066-43f4-8f86-b07f8b6d7651)
+
+## Installation Process
+Download the Project 
+
+ ```
+ cd cd loginproject
+```
+## Run Django
+
+```
+python manage.py runserver
+```
